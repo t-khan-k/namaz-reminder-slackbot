@@ -1,0 +1,29 @@
+{
+  "name": "namaz-reminder-slackbot",
+  "version": "1.0.0",
+  "description": "simple namaz reminder slack bot",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.x.x",
+    "botkit": "0.0.5",
+    "cron": "^1.1.0",
+    "express": "^4.x.x",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-khan-k/namaz-reminder-slackbot.git"
+  },
+  "keywords": [
+    "slackbot"
+  ],
+  "author": "talha khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/t-khan-k/namaz-reminder-slackbot/issues"
+  },
+  "homepage": "https://github.com/t-khan-k/namaz-reminder-slackbot#readme"
+}
